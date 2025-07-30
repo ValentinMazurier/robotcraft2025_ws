@@ -1,0 +1,5 @@
+build/
+devel/
+*.pyc
+__pycache__/
+src/turtlebot_control_blanks/
